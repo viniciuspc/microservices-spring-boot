@@ -7,6 +7,15 @@ public class Gallery {
 	private long id;
 	private List<Object> images;
 	
+	public Gallery(long id) {
+		super();
+		this.id = id;
+	}
+	
+	public Gallery() {
+		super();
+	}
+
 	public long getId() {
 		return id;
 	}
