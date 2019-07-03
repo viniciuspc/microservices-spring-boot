@@ -1,4 +1,4 @@
-package com.example.zuul.security;
+package com.example.commonservice.security;
 
 import org.springframework.beans.factory.annotation.Value;
 
